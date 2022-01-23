@@ -4,4 +4,8 @@ class player
     {
 
     }
+    void data2()
+    {
+
+    }
 }
